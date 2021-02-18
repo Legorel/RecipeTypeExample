@@ -1,0 +1,16 @@
+{
+  "type": "recipetypeexample:compressor",
+  "ingredient1": {
+    "item": "coal"
+  },
+  "ingredient2": {
+    "item": "coal"
+  },
+  "ingredient3": {
+    "item": "coal"
+  },
+  "result": {
+    "item": "diamond",
+    "count": 1
+  }
+}
